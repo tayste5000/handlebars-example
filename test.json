@@ -1,9 +1,9 @@
 {
 	"title": "This is a fancy title",
 	"items": [
-		"item1",
-		"item2",
-		"item3"
+		["item1", "item2", "item3"],
+		["item4", "item5", "item6"],
+		["item7", "item8", "item9"]
 	],
 	"optional": "Hey there"
 }
